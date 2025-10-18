@@ -1,1 +1,1 @@
-print("why python")
+print("why")
